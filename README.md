@@ -1,4 +1,4 @@
-# FNF-Android-Porting-Guide
+# FNF-Android-Porting-Guide ![icon-32](icon32.png)
 
 Compiling FNF and adding things for get it works on Android
 
