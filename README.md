@@ -38,13 +38,8 @@ haxelib git extension-androidtools https://github.com/jigsaw-4277821/extension-a
 
 3. You Need to add these things in project.xml
 
-On This Line
-```xml
-	<!--Mobile-specific-->
-	<window if="mobile" orientation="landscape" fullscreen="true" width="0" height="0" resizable="false" />
-```
 
-Replace It With
+Aggiungi questo in Project.xml:
 ```xml
 	<!--Mobile-specific-->
 	<window if="mobile" orientation="landscape" fullscreen="true" resizable="false" allow-shaders="true" require-shaders="true" allow-high-dpi="true" />
