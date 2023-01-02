@@ -1,5 +1,7 @@
 # FNF-Android-Porting-Guide ![icon-32](icon32.png)
 
+(Ignorate "icon32", è solo una 'decorazione' per il Readme
+
 Compiling FNF and adding things for get it works on Android
 
 **This should be used for the FNF 0.2.8 update and engines that have this version of FNF**
