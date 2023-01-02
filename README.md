@@ -1,6 +1,6 @@
-# FNF-Android-Porting:
+# FNF-Android-Porting-Guide
 
-The things im using when i port a mod to android
+Compiling FNF and adding things for get it works on Android
 
 **This should be used for the FNF 0.2.8 update and engines that have this version of FNF**
 
@@ -9,7 +9,7 @@ The things im using when i port a mod to android
 1. Download
 * [JDK](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - Download the version `19` of it
 * [Android Studio](https://developer.android.com/studio) - I recomend you to download the latest version
-* [NDK](https://developer.android.com/ndk/downloads/older_releases?hl=fi) - Download the version `r21e` (This is the version recomended by Lime)
+* [NDK](https://developer.android.com/ndk/downloads/older_releases?hl=fi) - Download the version (the oldest supported was '15c' `r21e` (This is the version recomended by Lime)
 
 2. Install JDK, Android Studio 
 Unzip the NDK (the NDK does not need to be installed because its a zip archive)
