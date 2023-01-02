@@ -11,7 +11,7 @@ Compiling FNF and adding things for get it works on Android
 1. Download
 * [JDK](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - Download the version `19` of it
 * [Android Studio](https://developer.android.com/studio) - I recomend you to download the latest version
-* [NDK](https://developer.android.com/ndk/downloads/older_releases?hl=fi) - Download the version (the oldest supported was `15c`) now is`r21e` (This is the version recomended by Lime)
+* [NDK](https://developer.android.com/ndk/downloads/older_releases?hl=fi) - Download the version (the oldest supported was `r15c`) now is`r21e` (This is the version recomended by Lime)
 
 2. Install JDK, Android Studio 
 Unzip the NDK (the NDK does not need to be installed because its a zip archive)
