@@ -1,6 +1,7 @@
 # FNF-Android-Porting-Guide ![icon-32](icon32.png)
 
-(Ignorate "icon32", è solo una decorazione per il README)
+- Hitbox is coded and doesn't use png/xml 
+- Buttons use png/xml
 
 Compiling FNF and adding things for get it works on Android
 
