@@ -37,6 +37,12 @@ To Install it You Need To Open Command prompt/PowerShell And Type
 haxelib git extension-androidtools https://github.com/jigsaw-4277821/extension-androidtools.git
 ```
 
+If your project use LincLuaJit, install from here
+```cmd
+haxelib git linc_luajit https://github.com/Sirox228/linc_luajit
+```
+
+
 2. Download the repository code and paste it in your source code folder
 
 3. You Need to add these things in project.xml
