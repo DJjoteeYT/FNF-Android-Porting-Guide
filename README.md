@@ -78,7 +78,7 @@ Add
 		<config:android permission="android.permission.READ_EXTERNAL_STORAGE" />
 		<config:android permission="android.permission.VIBRATE" />
 
-		<!--Gradle-->
+		<!--Gradle if errors come up, remove it! -->
 		<config:android gradle-version="7.6" gradle-plugin="7.3.1" />
 
 		<!--Audio Recording Fix-->
